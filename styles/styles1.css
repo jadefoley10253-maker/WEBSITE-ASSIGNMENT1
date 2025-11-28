@@ -1,0 +1,19 @@
+body, html{
+    height: 100%;
+}
+
+.bg{
+    background-image: url("images/website\ background\ pink.png");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav{
+    background-color: rgb(255, 190, 255);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
