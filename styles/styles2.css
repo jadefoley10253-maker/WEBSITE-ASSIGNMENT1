@@ -1,7 +1,7 @@
 body, html{
     height: 100%;
     background-color:rgb(216, 255, 249);
-    background-image: linear-gradient(to bottom, rgb(248, 255, 255), rgb(183, 250, 247));
+    background-image: linear-gradient(to bottom, rgb(255, 248, 216), rgb(134, 255, 249));
 }
 
 .bg{
@@ -19,7 +19,7 @@ body, html{
 
 nav{
   border: solid;
-    background-color: rgb(150, 255, 246);
+    background-color: rgb(31, 187, 174);
     margin-top: 1%;
     height: 5%;
     display: flex;
