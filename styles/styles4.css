@@ -1,5 +1,7 @@
 body, html{
     height: 100%;
+    background-color:rgb(216, 255, 249);
+    background-image: linear-gradient(to bottom, rgb(248, 255, 255), rgb(183, 250, 247));
 }
 
 .bg{
