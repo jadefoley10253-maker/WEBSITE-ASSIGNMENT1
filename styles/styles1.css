@@ -46,3 +46,12 @@ a:hover{
     transition: 0.3s; 
 }
 
+.MainTitle{
+    border: 2px solid;
+    border-radius: 0px 20px 0px 20px;
+    padding: 5px;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+
+}
