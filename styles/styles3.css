@@ -49,3 +49,15 @@ a:hover{
     margin-left: 25%;
 
 }
+#GRIDS{
+    display: flex;
+    flex-direction: row;
+}
+
+.p2{
+
+    border: solid;
+    margin: 10px;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgb(255, 235, 253), rgb(255, 233, 133));
+}
