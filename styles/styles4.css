@@ -1,5 +1,6 @@
 body, html{
     height: 100%;
+    min-height: 100vh;
     background-color:rgb(216, 255, 249);
     background-image: linear-gradient(to bottom, rgb(248, 255, 255), rgb(247, 154, 255));
 }
@@ -47,6 +48,8 @@ a:hover{
     width: 55%;
     text-align: center;
     margin-left: 25%;
+    font-family: "Science Gothic", sans-serif;
+  font-optical-sizing: auto;
 
 }
 
@@ -58,4 +61,9 @@ a:hover{
 .Table2{
     color: azure;
     background-color: rgb(202, 4, 202);
+}
+
+h2{
+     font-family: "Science Gothic", sans-serif;
+  font-optical-sizing: auto;
 }

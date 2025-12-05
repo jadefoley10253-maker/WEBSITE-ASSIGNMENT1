@@ -1,5 +1,6 @@
 body, html{
     height: 100%;
+    min-height: 100vh;
     background-color:rgb(216, 255, 249);
     background-image: linear-gradient(to bottom, rgb(255, 248, 216), rgb(134, 255, 249));
 }
@@ -53,9 +54,17 @@ a:hover{
     width: 50%;
     text-align: center;
     margin-left: 25%;
+    font-family: "Science Gothic", sans-serif;
+  font-optical-sizing: auto;
 
 }
 
 h2, p{
     text-align: center;
 }
+
+h2{
+     font-family: "Science Gothic", sans-serif;
+  font-optical-sizing: auto;
+}
+

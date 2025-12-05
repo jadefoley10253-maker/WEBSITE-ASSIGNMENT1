@@ -36,6 +36,11 @@ nav{
     color: aliceblue;
 }
 
+h2{
+ font-family: "Science Gothic", sans-serif;
+  font-optical-sizing: auto;
+}
+
 h3,h2{
     text-align: center;
 }
@@ -54,9 +59,11 @@ h3,h2{
 
 
 .aboutimg{
-  
-    margin-left: 9%;
-    padding-bottom: 1%;
+    justify-content: space-around;
+    border-radius: 60px;
+    border: solid 8px rgb(224, 91, 200);
+    margin-left: 15%;
+   
     height: 100px;
     width: 100px;
   
@@ -73,6 +80,7 @@ a:hover{
     transition: 0.3s; 
 }
 
+
 .MainTitle{
     border: 2px solid;
     border-radius: 0px 20px 0px 20px;
@@ -80,6 +88,9 @@ a:hover{
     width: 50%;
     text-align: center;
     margin-left: 25%;
+    font-family: "Science Gothic", sans-serif;
+  font-optical-sizing: auto;
+   
 
 }
 
