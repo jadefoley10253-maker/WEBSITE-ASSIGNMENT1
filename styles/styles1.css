@@ -64,11 +64,18 @@ h3,h2{
     border-radius: 60px;
     border: solid 8px rgb(224, 91, 200);
     margin-left: 20%;
-    
-   
     height: 100px;
     width: 100px;
-  
+}
+
+.aboutimg:hover{
+    border-radius: 60px;
+    border: solid 8px rgb(255, 198, 250);
+}
+
+.aboutimg:active{
+    border-radius: 60px;
+    border: solid 8px rgb(252, 240, 250);
 }
 
 a{
