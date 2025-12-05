@@ -1,6 +1,7 @@
 body, html{
     height: 100%;
     background-color:rgb(216, 255, 249);
+    min-height: 100vh;
     background-image: linear-gradient(to bottom, rgb(221, 255, 253), rgb(255, 164, 232));
  
 }
@@ -16,6 +17,7 @@ body, html{
 .IMG1{
     height: 300px;
     width: 100%;
+    object-fit: cover;
 }
 
 nav{
