@@ -107,11 +107,13 @@ a:hover{
 #GRIDS{
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .p2{
 
     border: solid;
+    padding: 20PX;
     margin: 10px;
     text-align: center;
     background-image: linear-gradient(to bottom, rgb(221, 255, 253), rgb(255, 164, 232));
