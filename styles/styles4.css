@@ -56,6 +56,11 @@ a:hover{
 
 }
 
+.TableClass{
+    display: flex;
+    justify-content: center;
+}
+
 .Table1{
     
     font-size: 30px;
@@ -75,11 +80,9 @@ h2{
   font-optical-sizing: auto;
 }
 
-table{
-    margin-top: 3%;
-    margin-left: 25%;
-    margin-bottom: 100px;
-}
+
+
+
 
 .contactInfo{
     text-align: center;
