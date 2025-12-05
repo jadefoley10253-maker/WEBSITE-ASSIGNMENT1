@@ -37,6 +37,8 @@ a{
     padding-top: 12px;
     color: black;
     text-decoration: none;
+    font-family: "Science Gothic", sans-serif;
+  font-optical-sizing: auto;
 }
 a:hover{
     color: white;
@@ -69,4 +71,13 @@ a:hover{
 h2{
      font-family: "Science Gothic", sans-serif;
   font-optical-sizing: auto;
+}
+
+.dummy{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 30px;
+    height: auto;
+    width: 50%;
 }

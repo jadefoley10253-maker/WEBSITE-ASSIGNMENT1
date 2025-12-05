@@ -43,6 +43,8 @@ a{
     padding-top: 12px;
     color: black;
     text-decoration: none;
+    font-family: "Science Gothic", sans-serif;
+  font-optical-sizing: auto;
 }
 a:hover{
     color: white;
@@ -69,5 +71,14 @@ h2{
   font-optical-sizing: auto;
 }
 
+.me{
+    height: auto;
+    width: 50%;
+}
+
+#meImages{
+    display: flex;
+    justify-content: center;
+}
 
 
