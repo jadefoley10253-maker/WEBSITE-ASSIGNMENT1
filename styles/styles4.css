@@ -54,11 +54,15 @@ a:hover{
 }
 
 .Table1{
+    
+    font-size: 30px;
     background-color: black;
     color: azure;
 }
 
 .Table2{
+    
+    font-size: 20px;
     color: azure;
     background-color: rgb(202, 4, 202);
 }
